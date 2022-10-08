@@ -43,7 +43,7 @@ int main()
 	int c = 2;
 	int d = a + b + c;
 	
-	float  ad = 21.f;
+	float sdfad = 21.f;
 
 	return 0;
 }
