@@ -27,7 +27,7 @@ void add(int& a, int& b);
 
 int main()
 {
-	char buffer[200];
+	char buffer[2000];
 
 	int dkdkdk = 1000;
 
