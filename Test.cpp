@@ -45,6 +45,7 @@ int main()
 	
 	float sdfad = 21.f;
 	char buffer2[1111];
+	int akakak = 100;
 
 	return 0;
 }
