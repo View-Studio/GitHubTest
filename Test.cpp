@@ -42,3 +42,8 @@ void add(int& a, int& b)
 {
 	a = a + b;
 }
+
+void ok(string Good)
+{
+	cout << "아주 잘 했어요";
+}
