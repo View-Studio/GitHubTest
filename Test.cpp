@@ -34,6 +34,8 @@ int main()
   
 	int c = 2;
 	int d = a + b + c;
+	
+	float = 21.f;
 
 	return 0;
 }
