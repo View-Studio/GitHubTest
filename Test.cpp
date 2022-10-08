@@ -36,7 +36,7 @@ int main()
 
 	int a = 1;
 	int b = 2;
-
+	int adf = 0;
 	add(a, b);
   
 	int c = 2;
