@@ -25,6 +25,8 @@ int main()
 	float sdfad = 21.f;
 	char buffer2[1111];
 
+	int Lucky 7;
+
 	return 0;
 }
 
@@ -35,5 +37,5 @@ void add(int& a, int& b)
 
 void ok(string Good)
 {
-	cout << "¾ÆÁÖ Àß Çß¾î¿ä";
+	cout << Good;
 }
