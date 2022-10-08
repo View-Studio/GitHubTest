@@ -1,25 +1,4 @@
-#include <ObjError.h>
-
 #include <iostream>
-#include <WinSock2.h>
-#include <string>
-#include <vector>
-#include <AccCtrl.h>
-#include <accountssettingspaneinterop.h>
-#include <AclAPI.h>
-#include <AclUI.h>
-#include <d2d1.h>
-#include <OAIdl.h>
-#include <qmgr.h>
-#include <magnification.h>
-#include <gamingtcui.h>
-#include <lamp.h>
-#include <wnnc.h>
-#include <ObjectArray.h>
-#include <ondemandconnroutehelper.h>
-#include <omp.h>
-#include <map>
-#include <algorithm>
 
 using namespace std;
 
