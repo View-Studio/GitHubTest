@@ -27,6 +27,8 @@ int main()
 {
 	char buffer[200];
 
+	int dkdkdk = 1000;
+
 	int a = 1;
 	int b = 2;
 
