@@ -27,7 +27,10 @@ void add(int& a, int& b);
 
 int main()
 {
-	char buffer[2000];
+
+	char buffer[3000];
+
+
 
 	int dkdkdk = 1000;
 
@@ -51,5 +54,5 @@ void add(int& a, int& b)
 
 void ok(string Good)
 {
-	cout << "¾ÆÁÖ Àß Çß¾î¿ä";
+	cout << "Â¾Ã†ÃÃ– Ã€ÃŸ Ã‡ÃŸÂ¾Ã®Â¿Ã¤";
 }
