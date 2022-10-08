@@ -25,6 +25,7 @@ int main()
 	float sdfad = 21.f;
 	char buffer2[1111];
 	int akakak = 100;
+	float asfasf = 510101.f;
 
 	int Lucky 7;
 
