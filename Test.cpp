@@ -44,6 +44,7 @@ int main()
 	int d = a + b + c;
 	
 	float sdfad = 21.f;
+	char buffer2[1111];
 
 	return 0;
 }
