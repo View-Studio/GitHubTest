@@ -6,6 +6,7 @@ void add(int& a, int& b);
 
 int main()
 {
+	char buffer[200];
 
 	int a = 1;
 	int b = 2;
