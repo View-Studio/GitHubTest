@@ -27,7 +27,7 @@ int main()
 	int akakak = 100;
 	float asfasf = 510101.f;
 
-	int Lucky = 7;
+	int Luck = 7;
 
 	return 0;
 }
